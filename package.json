@@ -1,6 +1,6 @@
 {
-  "name": "@vfcoding/module-css-classname",
-  "version": "1.0.0",
+  "name": "@vfcoding/css-module-classname",
+  "version": "0.0.1",
   "types": "dist/index.d.ts",
   "exports": {
     ".": {

@@ -5,7 +5,7 @@
 To install the package run:
 
 ```
-npm i @vfcoding/module-css-classname
+npm i @vfcoding/css-module-classname
 ```
 
 ## how to use
